@@ -1,2 +1,3 @@
-## 🚀 Live Projects
-- **[Locomap.org](https://www.locomap.org/)** - A web-based application that allows users to create customized maps, mark locations, and share them with others.
+## 🚀 Live Web Projects
+- **[Locomap](https://www.locomap.org/)** – Create and share custom maps with marked locations.
+- **[MoveWeather](https://move-weather-one.vercel.app/)** – Weather forecasts focused on outdoor activities.
