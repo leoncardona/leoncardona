@@ -1,4 +1,4 @@
 ## 🚀 Live Web Projects
 
 ### [PCComTracker](https://www.pccomtracker.com/)
-Price tracking system for PCComponentes with automated scraping, real-time charts, and Chrome extension.
+Price tracking system for technology products in Spain. Includes PCComponentes, Amazon and Mediamarkt. 
